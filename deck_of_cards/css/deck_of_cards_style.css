@@ -1,0 +1,28 @@
+
+label {
+    display: inline;
+	margin-left: 20px;
+}
+
+input {
+	margin-left: 20px;
+    text-align: right;
+}
+
+.canvas_container {
+	background-color: #194D1E;
+	width: 900px;
+	border-radius: 3px 3px 3px 3px;
+	margin: 5px 5px 5px 5px;		// top right bottom left
+	float: left;
+}
+  
+.controls_container {
+	background-color: #194D1E;
+	width: 900px;
+	height: 80px;
+	border-radius: 3px 3px 3px 3px;
+	margin: 5px 5px 5px 5px;		// top right bottom left
+	float: left;
+}
+

@@ -1,0 +1,16 @@
+{
+  "name": "teachyourselfit",
+  "version": "1.0.0",
+  "description": "Experimental Development",
+  "main": "index.js",
+  "dependencies": {
+    "requirejs": "^2.3.2",
+    "simple-enum": "^0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
